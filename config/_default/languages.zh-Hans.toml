@@ -1,0 +1,26 @@
+languageCode = "zh-Hans"
+languageName = "简体中文"
+languageDirection = "ltr"
+weight = 2
+
+title = "erryv's Blog"
+copyright = "&copy; 2024 erryv Yang"
+
+[params]
+  dateFormat = "2006-1-2"
+
+  mainSections = ["samples"]
+  description = "erryv 个人记录博客站点"
+
+[params.author]
+  name = "erryv"
+ # image = "img/author.jpg"
+  headline = "善己身不遇人"
+  bio = "用自己喜欢的方式度过一生"
+  links = [
+    { github = "https://github.com/erryv"}
+ #   { x-twitter = "https://twitter.com/" },
+ #   { facebook = "https://facebook.com/" },
+ #   { linkedin = "https://linkedin.com/" },
+ #   { youtube = "https://youtube.com/" },
+  ]
